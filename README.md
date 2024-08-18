@@ -28,5 +28,5 @@ selm4n@LOGOS~$ cat active_pojects
 
 
 ### Contacts
-* selman@emmacomp.ca
+* selman@beaverbyte.ca
 
