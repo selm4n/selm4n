@@ -1,35 +1,33 @@
-![Terminal header showing selman@beaverbyte:~, the whoami command, and Selman / @selm4n](assets/terminal-header.svg)
+![Selman / @selm4n — A little Linux. A lot of curiosity. Toronto, Canada / BEAVER BYTE.](assets/terminal-header.svg)
 
-## `$ whoami`
+I'm **Selman**. Welcome to my little corner of the web. Based in **Toronto, Canada**. Strategy Director at **BEAVER BYTE**.
 
-I'm **Selman**, Strategy Director at **BEAVER BYTE**, based in **Toronto, Canada**.
+## Selected destinations
 
-**Strategy meets the command line.**
+A few places to wander.
 
-My projects span football tactics, Canadian taxes, and messaging — different problems, connected by an interest in building useful tools.
+[![01 / Bledger — explore bledger.ca](assets/destination-bledger.svg)](https://bledger.ca)
 
-## `$ cat toolbox.txt`
+[**Bledger**](https://bledger.ca) — Tax refund and donation credit estimates for life in Canada.
 
-**Linux · Python · Bash · Git · AWS**
+[![02 / BMessage — explore bmessage.ca](assets/destination-bmessage.svg)](https://bmessage.ca)
 
-From the terminal to the cloud, these are the tools in my kit.
+[**BMessage**](https://bmessage.ca) — A small message tool with a terminal-inspired interface.
 
-## `$ ls projects/`
+[![03 / Beaver Byte — explore beaverbyte.ca](assets/destination-beaver-byte.svg)](https://beaverbyte.ca)
 
-### `my11-legends`
+[**Beaver Byte**](https://beaverbyte.ca) — A look at web development, digital strategy, and ecommerce work.
 
-Football tactics, mapped out. An interactive tactical board generator for exploring formations and ideas on the pitch.
+[![04 / Verluma — explore entry.verluma.ca](assets/destination-verluma.svg)](https://entry.verluma.ca)
 
-### [`tax-return-app`](https://github.com/selm4n/tax-return-app)
+[**Verluma**](https://entry.verluma.ca) — Verluma Entry brings receipts and transaction records together.
 
-A command-line tax simulation project for T4 employees in Ontario — applying software to tax awareness and planning.
+## Built on open source
 
-### `b-message`
+I'm a big Linux fan, an admirer of Linus Torvalds, and someone who believes we owe a great deal to open source.
 
-A messaging project exploring how we connect through software.
+So much of what we build rests on tools that others chose to share. To the people who create, maintain, document, and improve them: thank you.
 
-## `$ ./connect`
+---
 
-Have an interesting problem, a project idea, or a shared interest in Linux and building useful tools? Let's talk.
-
-[**Send me an email**](mailto:selman@beaverbyte.ca) · [**Explore my repositories**](https://github.com/selm4n?tab=repositories)
+Say hello. [selman@beaverbyte.ca](mailto:selman@beaverbyte.ca)
