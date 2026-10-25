@@ -1,24 +1,30 @@
-![Selman / @selm4n — A little Linux. A lot of curiosity. Toronto, Canada / BEAVER BYTE.](assets/terminal-header.svg)
+<div align="center">
 
-I'm **Selman**. Welcome to my little corner of the web. Based in **Toronto, Canada**. Strategy Director at **BEAVER BYTE**.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=435&lines=su+selman;neofetch;raccoon_mode_engaged" alt="Terminal intro: su selman, neofetch, raccoon_mode_engaged" />
 
-## Selected destinations
+</div>
 
-A few places to wander.
+```text
+selman@beaverbyte:~$ neofetch
 
-[![01 / Bledger — explore bledger.ca](assets/destination-bledger.svg)](https://bledger.ca)
+Selman / @selm4n
+------------------------------
+Location: Toronto, Canada
+Role:     Strategy Director
+Company:  BEAVER BYTE
+```
+
+**A little Linux. A lot of curiosity.**
+
+Welcome to my little corner of the web.
+
+## Around the web
 
 [**Bledger**](https://bledger.ca) — Tax refund and donation credit estimates for life in Canada.
 
-[![02 / BMessage — explore bmessage.ca](assets/destination-bmessage.svg)](https://bmessage.ca)
-
 [**BMessage**](https://bmessage.ca) — A small message tool with a terminal-inspired interface.
 
-[![03 / Beaver Byte — explore beaverbyte.ca](assets/destination-beaver-byte.svg)](https://beaverbyte.ca)
-
 [**Beaver Byte**](https://beaverbyte.ca) — A look at web development, digital strategy, and ecommerce work.
-
-[![04 / Verluma — explore entry.verluma.ca](assets/destination-verluma.svg)](https://entry.verluma.ca)
 
 [**Verluma**](https://entry.verluma.ca) — Verluma Entry brings receipts and transaction records together.
 
